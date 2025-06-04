@@ -34,6 +34,7 @@ Além disso, possuo experiência em **liderança de equipes**, **Scrum Mastering
 ---
 
 ### 🏆 Reconhecimentos
+- **Medalha de Bronze** na Maratona Mineira de Programação 12° edição.
 - **1º lugar** na Maratona de Programação SECOM 2022.  
 - **4º lugar** na Maratona de Programação SECOM 2023.  
 - Participação em eventos como a **XI e XII Semana da Computação (UFV)**, maratonas organizadas.  
