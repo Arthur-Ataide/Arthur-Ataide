@@ -10,7 +10,6 @@
 ### 👨‍💻 Sobre mim
 Sou estudante de **Ciências da Computação** na **UFV - Campus Florestal**, apaixonado por tecnologia, programação e inovação. Durante minha jornada acadêmica e profissional, já participei de **iniciação científica**, **projetos integradores multidisciplinares** e **maratonas de programação**. Meu foco atual está em:
 
-- **Desenvolvimento Back-End**
 - **Desenvolvimento FullStack**
 - **Engenharia de Dados**  
 - **Desenvolvimento de Jogos**  
