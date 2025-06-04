@@ -19,7 +19,7 @@ Além disso, possuo experiência em **liderança de equipes**, **Scrum Mastering
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: Python, Java, C, C++, C#, SQL, HTML, CSS.
+- **Linguagens**: Python, Java, C, C++, C#, SQL, HTML.
 - **Frameworks e Ferramentas**: libGDX, Flask, Swing, GTK, MySQL, PostgreSQL.  
 - **Outras Competências**: UML, Git, Metodologias Ágeis (Scrum, Kanban).  
 
